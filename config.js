@@ -16,6 +16,9 @@ global.prefix = [".", "!", ".", ",", "🐤", "🗿"];
 global.publik = true
 global.owner = ["254785016388"] 
 global.namabot = 'terminator'
+// config.js
+global.session = "PASTE-YOUR-SESSION-ID-HERE"; // session string from your generator
+
 //======================
 global.mess = { 
 owner: 'waduhh!, lu bukan owner gw bg',
